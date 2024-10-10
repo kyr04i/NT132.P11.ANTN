@@ -8,15 +8,14 @@
 - Develop server balancing mechanisms to optimize resource utilization
 - Create an API harmonization layer (HARP) for simplified management
 - Introduce multiple load balancing algorithms
-## Configuration
 
+## Configuration
 - Operating system: Ubuntu 22.04 LTS
-- Processor : 11th Gen Intel(R) Core(TM) i5 - 12500H @ 2.30Ghz (16CPUs)
+- Processor : 12th Gen Intel(R) Core(TM) i5 - 12500H @ 2.30Ghz (16CPUs)
 - GPU : NVIDIA GeForce RTX 3050 Laptop GPU
 - Memory : 16Gb
 
 ## Contributor
-
 - Nguyen Viet Duy - 22520336
 - Vu Tien Giap - 22520367
 
