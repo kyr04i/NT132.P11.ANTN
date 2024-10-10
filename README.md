@@ -13,7 +13,7 @@ This proposal outlines the implementation of Octavia, an advanced load balancing
 - Operating system: Ubuntu 22.04 LTS
 - Processor : 11th Gen Intel(R) Core(TM) i5 - 12500H @ 2.30Ghz (16CPUs)
 - GPU : NVIDIA GeForce RTX 3050 Laptop GPU
-- Memory : 8Gb
+- Memory : 16Gb
 
 ## Contributor
 
