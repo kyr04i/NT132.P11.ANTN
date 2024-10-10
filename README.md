@@ -1,7 +1,7 @@
 # Octavia - Load Balancing Solution For Openstack
 
 ## Sumary
-This proposal outlines the implementation of Octavia, an advanced load balancing solution designed for OpenStack environments. Octavia aims to provide both network load balancing and server balancing capabilities, enhancing the scalability, reliability, and performance of OpenStack deployments.
+- This proposal outlines the implementation of Octavia, an advanced load balancing solution designed for OpenStack environments. Octavia aims to provide both network load balancing and server balancing capabilities, enhancing the scalability, reliability, and performance of OpenStack deployments.
 
 ## Goal
 - Implement network load balancing for efficient traffic distribution
@@ -20,9 +20,7 @@ This proposal outlines the implementation of Octavia, an advanced load balancing
 - Nguyen Viet Duy - 22520336
 - Vu Tien Giap - 22520367
 
-## Project Phases
-
-- Phase1: Research and Design 
+## Installation
 
 
 
